@@ -1,0 +1,30 @@
+.myPaneTop {
+		-fx-background-image: url('./view/assets/blueforest.jpg');
+		
+		}
+
+.myPaneButton {
+	-fx-background-color: #008080;
+	
+	}
+.button{
+	-fx-background-color: orange;
+	-fx-background-radius: 7px;
+}
+.button:hover {
+	-fx-background-color:  #008080;
+	
+}
+
+.mytitle{
+    
+    -fx-font-size: 35.0;
+   
+    
+
+}
+.mytitle2{
+
+    -fx-font-size: 20.0;
+}
+
